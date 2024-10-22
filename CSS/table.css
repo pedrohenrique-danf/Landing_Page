@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    text-align: center;
+    margin-right: 40px;
+}
+
+.table_I {
+    text-align: center;
+    float: inline-start;
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+.table_II {
+    text-align: center;
+    float: inline-start;
+    margin-top: 20px;
+    margin-left: 40px
+}
+
+.table_III {
+    text-align: center;
+    float: inline-start;
+    margin-top: 20px;
+    margin-left: 40px
+}
+
+
+thead {
+    background-color: rgb(73, 177, 73);
+}
+
+tfoot {
+    background-color: rgb(149, 234, 149)
+}
+
+body {
+    width: 850px;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    text-align: none;
+}
+
+.table_dale {
+    margin: auto;
+}
+
+.a {
+    color: white;
+}
+
+header {
+    background-color: black;
+}
+
+.active {
+    background-color: red;
+}
